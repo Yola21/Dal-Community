@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">DalCommunity</string>
+    <string name="username">Username</string>
+    <string name="_15_mar_2024_09_34">15 Mar 2024, 09:34</string>
+    <string name="sample_text_post">Sample Text Post: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="greetings">Greetings!</string>
+    <string name="petitionHeader">Create Petition</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="community_title">Community Channels</string>
+    <string name="community_tab_title1">Chats</string>
+    <string name="community_tab_title2">Channels</string>
+    <string name="community_search_hint">Search by Community Name</string>
+    <string name="community_join_title">Create Community</string>
+    <string name="community_join_name_hint">Enter Community Name</string>
+    <string name="community_join_desc_hint">Enter Community Description</string>
+    <string name="community_join_rules_hint">Enter Community Rules</string>
+    <string name="community_join_save">Save</string>
+    <string name="community_join_close">Close</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="not_a_user_yet">Not a user yet?</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="profile_detail_name_placeholder">Name</string>
+    <string name="profile_detail_description_placeholder">Description</string>
+    <string name="profile_detail_email_placeholder">Email</string>
+    <string name="profile_detail_save_changes_button">Save Changes</string>
+    <string name="profile_page_log_out_button_text">Log out</string>
+    <string name="enter_new_password_again">Enter New Password Again</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="schedule">Your Schedule</string>
+    <string name="_1">1</string>
+    <string name="may">May</string>
+    <string name="mon">Mon</string>
+    <string name="mobile_computing">Mobile Computing</string>
+    <string name="_14_30_pm">14:30 pm</string>
+    <string name="_11_30_am">11:30 am</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="dropdown_items">
+        <item>All Items</item>
+        <item>Lost Items</item>
+        <item>Found Items</item>
+    </string-array>
+    <string name="what_do_you_want_to_poll">What do you want to poll?</string>
+    <string name="create_poll">Create Poll</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="student_id_photo_description">Dal Card</string>
+    <string name="capture_photo">Capture Dal Card</string>
+    <string name="update_photo">Update Dal Card</string>
+    <string name="delete_photo">Delete Dal Card</string>
+    <string name="my_saved_posts">My Saved Posts</string>
+    <string name="my_posts">My Posts</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="change_password_acc_settings">Change Password</string>
+    <string name="first_interest">First Interest</string>
+    <string name="second_interest">Second Interest</string>
+    <string name="third_interest">Third Interest</string>
+
+    <string-array name="report_options">
+        <item>Spam</item>
+        <item>Nudity or Sexual Activity</item>
+        <item>Hate Speech or Symbols</item>
+        <item>Violence</item>
+        <item>Bullying / Harassment</item>
+        <item>False Information</item>
+        <item>Scam</item>
+        <item>Suicide or Self-injury</item>
+        <item>Sale of illegal items</item>
+        <item>Intellectual Property Violation</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="don_t_know_who_to_ask_a_question_you_have">Don\'t know who to ask?</string>
+    <string name="broadcast">\ Broadcast!</string>
+    <string name="briefly_enter_the_question_you_have_in_the_below_text_field">Briefly enter the question you have in the below text field.</string>
+    <string name="keep_it_brief">Keep it brief..</string>
+    <string name="you_get_once_broadcast_a_day_use_it_wisely">You get one broadcast a day. Use it wisely :)</string>
+    <string name="your_broadcast_questions">Your broadcast questions:</string>
+    <string name="question_statement">QUESTION STATEMENT</string>
+    <string name="sample_answer">Sample answer.</string>
+    <string name="help_a_peer_out">Help a peer out!</string>
+    <string name="your_answer">Your answer:</string>
+    <string name="make_an_announcement">Make an Announcement!</string>
+    <string name="add_your_comment_here">Add your comment here...</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="todo">TODO</string>
+    <string name="post_announcement">POST ANNOUNCEMENT</string>
+    <string name="title">TITLE</string>
+    <string name="announcement">ANNOUNCEMENT</string>
+    <string name="announcement_message">Announcement Message</string>
+    <string name="sender_and_date">sender and date</string>
+    <string name="title_smallcase">Title</string>>
+    <string name="this_is_the_message_received">This is the message Received</string>
+    <string name="this_is_the_message_sent">This is the message sent</string>>
+
+</resources>
